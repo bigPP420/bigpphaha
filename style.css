@@ -24,7 +24,7 @@ h1 {
     font-size:75px;
 }
 .rotation{
-    height: inherit;
+    height: 90px;
     width: auto;
     padding: 5px;
     position: relative;
